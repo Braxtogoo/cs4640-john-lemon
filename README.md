@@ -1,2 +1,2 @@
 # cs4640-john-lemon
-The first assignment.
+The first project.
